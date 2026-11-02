@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository is archived. Its code now lives in [MooreSpeechCorpora](https://github.com/anyantudre/MooreSpeechCorpora) as part of the VoxFaso toolkit, which keeps this repository's commit history. New work happens there.
+
 # Speech Dataset Generator
 
 A collection of command-line interface (CLI) tools for downloading audio from YouTube playlists, converting audio files to WAV format, and generating a ready-to-use voice synthesis dataset. This repository addresses the community's need for a voice processing pipeline that creates a voice dataset structure based on existing WAV audio data.
